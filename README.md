@@ -12,34 +12,34 @@ my-app/
 │   │   │   │       ├── config/
 │   │   │   │       │   └── SecurityConfig.java   
 │   │   │   │       ├── controller/
-│   │   │   │       │   ├── AuthController.java  	Saad
-│   │   │   │       │   ├── CustomerController.java	Saad
-│   │   │   │       │   ├── SupplierController.java	Aymane
-│   │   │   │       │   ├── AdminController.java	Aymane
-│   │   │   │       │   └── BidController.java		Elmahdi
+│   │   │   │       │   ├── AuthController.java   (Saad)
+│   │   │   │       │   ├── CustomerController.java (Saad)
+│   │   │   │       │   ├── SupplierController.java (Aymane)
+│   │   │   │       │   ├── AdminController.java (Aymane)
+│   │   │   │       │   └── BidController.java (Elmahdi)
 │   │   │   │       ├── model/
-│   │   │   │       │   ├── User.java    Saad
-│   │   │   │       │   ├── Customer.java	Saad
-│   │   │   │       │   ├── Supplier.java	Aymane
-│   │   │   │       │   ├── Admin.java	Aymane
-│   │   │   │       │   ├── Bid.java	Elmahdi
-│   │   │   │       │   └── BidOffer.java	Elmahdi
+│   │   │   │       │   ├── User.java (Saad)
+│   │   │   │       │   ├── Customer.java (Saad)
+│   │   │   │       │   ├── Supplier.java (Aymane)
+│   │   │   │       │   ├── Admin.java (Aymane)
+│   │   │   │       │   ├── Bid.java (Elmahdi)
+│   │   │   │       │   └── BidOffer.java (Elmahdi)
 │   │   │   │       ├── repository/
-│   │   │   │       │   ├── UserRepository.java		Saad
-│   │   │   │       │   ├── CustomerRepository.java	Saad
-│   │   │   │       │   ├── SupplierRepository.java	Aymane
-│   │   │   │       │   ├── AdminRepository.java	Aymane
-│   │   │   │       │   ├── BidRepository.java		Elmahdi
-│   │   │   │       │   └── BidOfferRepository.java	Elmahdi
+│   │   │   │       │   ├── UserRepository.java (Saad)
+│   │   │   │       │   ├── CustomerRepository.java (Saad)
+│   │   │   │       │   ├── SupplierRepository.java (Aymane)
+│   │   │   │       │   ├── AdminRepository.java (Aymane)
+│   │   │   │       │   ├── BidRepository.java (Elmahdi)
+│   │   │   │       │   └── BidOfferRepository.java (Elmahdi)
 │   │   │   │       ├── security/
 │   │   │   │       │   ├── jwt/
 │   │   │   │       │   │   └── JwtUtils.java
 │   │   │   │       │   └── services/
-│   │   │   │       │       ├── UserDetailsImpl.java	Saad
-│   │   │   │       │       └── UserDetailsServiceImpl.java	Saad
-│   │   │   │       └── MyAppApplication.java	Done
+│   │   │   │       │       ├── UserDetailsImpl.java (Saad)
+│   │   │   │       │       └── UserDetailsServiceImpl.java (Saad)
+│   │   │   │       └── MyAppApplication.java (Done)
 │   │   │   └── resources/
-│   │   │       └── application.properties	
+│   │   │       └── application.properties   
 │   │   └── pom.xml
 │   └── ...
 ├── frontend/
