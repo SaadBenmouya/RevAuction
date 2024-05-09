@@ -1,5 +1,8 @@
 # RevAuction
 
+# My App
+
+## Project Structure
 my-app/
 ├── backend/
 │   ├── src/
@@ -66,7 +69,3 @@ my-app/
 │   ├── package.json
 │   └── ...
 └── ...
-
-
-
-
